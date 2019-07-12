@@ -1,6 +1,7 @@
 # flutterhttpget
 
-A new Flutter project.
+To run use
+‘tipo terminal: flutter run‘
 
 ## Getting Started
 
