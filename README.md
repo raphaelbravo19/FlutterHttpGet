@@ -1,7 +1,7 @@
 # flutterhttpget
 
-To run use
-‘tipo terminal: flutter run‘
+To run use:
+flutter run
 
 ## Getting Started
 
